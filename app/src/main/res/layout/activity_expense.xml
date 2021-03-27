@@ -39,7 +39,6 @@
         android:id="@+id/textView9"
         android:layout_width="275dp"
         android:layout_height="62dp"
-        android:gravity="center"
         android:text="Enter Monthly Recurring Bills to Proceed"
         android:textColor="@color/colorText"
         android:textSize="24sp"
