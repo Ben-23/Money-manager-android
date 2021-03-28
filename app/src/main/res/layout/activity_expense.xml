@@ -27,6 +27,7 @@
         android:layout_width="274dp"
         android:layout_height="48dp"
         android:background="@drawable/rectangle_button"
+        android:onClick="onContinue"
         android:text="Continue"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

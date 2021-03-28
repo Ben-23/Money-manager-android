@@ -47,9 +47,10 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="357dp"
+        android:layout_width="310dp"
         android:layout_height="66dp"
         android:background="@drawable/rectangle_button"
+        android:onClick="onExpense"
         android:text="Expense Tracker"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -60,7 +61,7 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="357dp"
+        android:layout_width="310dp"
         android:layout_height="66dp"
         android:background="@drawable/rectangle_button"
         android:text="Big Expense"
